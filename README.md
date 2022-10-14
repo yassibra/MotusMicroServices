@@ -9,8 +9,9 @@
  - docker build . -t yassibra/motus-motus
  - cd ./Front
  - docker build . -t yassibra/motus-front
- - docker run -p 3000:3000 -d yassibra/motus-front
+ - cd ../
  - docker compose up -d
+
 
 #### Sans Docker : 
  - Dans le dossier Auth : node auth.js
