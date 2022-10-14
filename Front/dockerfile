@@ -1,13 +1,15 @@
-FROM node:16.13.2
-WORKDIR /usr/src/app/front
+FROM node:16.13.2 as build
+
+WORKDIR /app
+
+COPY package.json ./
+COPY package-lock.json ./
 COPY postcss.config.js ./
 COPY tailwind.config.js ./
 COPY vite.config.js ./
-COPY package*.json ./
-RUN npm ci
-COPY . .
 RUN npm install
-COPY . .
-EXPOSE 3000
-#EXPOSE 35729
-CMD [ "node", "build"]
+COPY . ./
+RUN npm run build
+
+ENV HOST=0.0.0.0
+CMD [ "npm", "run", "dev"]
