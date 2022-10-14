@@ -18,7 +18,7 @@
 - score
 ![](diag3.png)
 ## Pour jouer
-| - Creez votre compte      |![](jeuMotus.png.png)
+| - Creez votre compte      |![](jeuMotus.png)
 | - Connectez vous          |
 | - Jouez                   |
 | - Consultez votre score   |
