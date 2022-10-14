@@ -29,6 +29,6 @@ Le jeu repose sur la recherche d'un mot en 6 essais dont la première lettre est
 ## Axes d'améliorations
 On est conscient que certains mécanismes du jeu ne fonctionnent pas parfaitement ou encore que certains traitements pourraient être largement améliorés en terme de compléxité algorithmique. Néanmoins, le but de ce projet a été de comprendre les avantages des microservices et comment facilement les déployer quand cela est nécessaire.
 
-L'interaction entre le serveur motus et le serveur score pour update le score ne fonctionne pas dans la version dockerisé. Il faudrait mettre en place un reverse proxy pour assurer des communications tripartite de la sorte. Néanmoins le jeu, le score fonctionne au même titre que l'authentification sécurisé avec un JWT HttpOnly. 
+L'interaction entre le serveur motus et le serveur score pour update le score ne fonctionne pas dans la version dockerisé. Il faudrait mettre en place un reverse proxy pour assurer des communications tripartite de la sorte. Néanmoins le jeu et le score fonctionnent au même titre que l'authentification sécurisé par un JWT HttpOnly. 
 
 On pourra noter que le passage d'un jwt non HttpOnly à un jwt HttpOnly a été d'une plus value car le jwt n'est plus accessible via commandes javascript. Néanmoins cette plus value est faible car sa mise en place a nécessité la modification du fonctionnement de tous les microservices -  (CORS, whitelist, etc.) - ce qui n'est pas le but d'autant plus que l'on n'est pas à l'abri de failles CSRF. 
