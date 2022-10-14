@@ -2,11 +2,11 @@
 ## Installation 
 
 ## Fonctionnement 
-Connexion
-![](diag1.png)
-jeu
+#### Connexion
+![Connexion](diag1.png)
+#### jeu
 ![](diag2.png)
-score
+#### score
 ![](diag3.png)
 ## Pour jouer
     - Creez votre compte
