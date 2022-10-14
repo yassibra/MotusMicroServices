@@ -1,13 +1,13 @@
 # Motus 
 ## Installation 
 #### Par Docker :
- - cd ./Auth
+ - cd ../Auth
  - docker build . -t yassibra/motus-auth
- - cd ./Score
+ - cd ../Score
  - docker build . -t yassibra/motus-score
- - cd ./Motus
+ - cd ../Motus
  - docker build . -t yassibra/motus-motus
- - cd ./Front
+ - cd ../Front
  - docker build . -t yassibra/motus-front
  - cd ../
  - docker compose up -d
