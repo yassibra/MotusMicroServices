@@ -12,12 +12,12 @@
  - docker run -p 3000:3000 -d yassibra/motus-front
  - docker compose up -d
 
-#### Sans docker : 
+#### Sans Docker : 
  - Dans le dossier Auth : node auth.js
  - dans le dossier motus : node serveurmotus
  - dans le dossier score : node score
  - dans le dossier front : npm run dev
- - 
+ 
 ## Fonctionnement 
 -  Connexion
 ![Connexion](diag1.png)
