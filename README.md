@@ -2,7 +2,12 @@
 ## Installation 
 
 ## Fonctionnement 
-![](12876.jpg)
+Connexion
+![](diag1.png)
+jeu
+![](diag2.png)
+score
+![](diag3.png)
 ## Pour jouer
     - Creez votre compte
     - Connectez vous
