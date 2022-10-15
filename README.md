@@ -17,7 +17,8 @@
  >- Dans le dossier Auth :
  (supprimez node_modules)
   ```
-  npm i npm run dev
+  npm i 
+  npm run dev
  ```
  
  >- dans le dossier Motus : 
@@ -29,12 +30,14 @@
  >- dans le dossier Score : 
   (supprimez node_modules)
    ```
-  npm i npm run dev
+  npm i 
+  npm run dev
  ```
  >- dans le dossier Front : 
   (supprimez node_modules) 
    ```
-  npm i npm run dev
+  npm i 
+  npm run dev
  ```
  
 ## Fonctionnement 
