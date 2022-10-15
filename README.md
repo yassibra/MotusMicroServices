@@ -42,16 +42,22 @@
  ```
  
 ## Fonctionnement 
-# Connexion
+### Diagramme de séquence - Connexion
 <p align="center">
-  <img src="diag1.png" width="780px"/>
+  <img src="diag1.png" width="1080px"/>
 </p>  
 
- ![Connexion](diag1.png)
- - jeu
- ![](diag2.png)
- - score
- ![](diag3.png)
+### Diagramme de séquence - Jeu Motus
+<p align="center">
+  <img src="diag2.png" width="1080px"/>
+</p>  
+
+
+### Diagramme de séquence - Score
+<p align="center">
+  <img src="diag3.png" width="1080px"/>
+</p>  
+
 
 ## Creation de compte et connexion
 
