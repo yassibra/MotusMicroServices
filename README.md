@@ -49,10 +49,13 @@
 - score
 ![](diag3.png)
 ## Pour jouer
- - Creez votre compte      
- - Connectez vous          
+
+<p align="center">
+  -Creation de compte et connexion
+  <img src="CreerCompteEtConnexion.gif" width="360px" />
+</p>     
  - Jouez                   
- - Consultez votre score   
+ - Consultez votre score  
 ![](jeuMotus.png)
 ## Regle du jeu 
 Le jeu repose sur la recherche d'un mot en 6 essais dont la première lettre est fournit. A la fin de chaque tentative, Motus colorie les cases pour vous orienter vers le bon résultat. Les cases vertes, représente les lettres bien placées, les cases orange, les lettres mal placées et en rouge, les lettres incorrectes. L'objectif étant de trouver le résultat en un minimum de tentative. A vous de jouer !
