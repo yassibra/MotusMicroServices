@@ -14,10 +14,10 @@
 
 
 #### Sans Docker : 
- - Dans le dossier Auth : node auth.js
- - dans le dossier motus : node serveurmotus
- - dans le dossier score : node score
- - dans le dossier front : npm run dev
+ - Dans le dossier Auth : (supprimez node_modules) npm i npm run dev
+ - dans le dossier motus : (supprimez node_modules) npm i npm run dev
+ - dans le dossier score : (supprimez node_modules) npm i npm run dev
+ - dans le dossier front : (supprimez node_modules) npm i npm run dev
  
 ## Fonctionnement 
 -  Connexion
