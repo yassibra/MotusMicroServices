@@ -42,12 +42,16 @@
  ```
  
 ## Fonctionnement 
--  Connexion
-![Connexion](diag1.png)
-- jeu
-![](diag2.png)
-- score
-![](diag3.png)
+# Connexion
+<p align="center">
+  <img src="diag1.png" width="780px"/>
+</p>  
+
+ ![Connexion](diag1.png)
+ - jeu
+ ![](diag2.png)
+ - score
+ ![](diag3.png)
 
 ## Creation de compte et connexion
 
