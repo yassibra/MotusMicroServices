@@ -74,7 +74,7 @@
  ## Consultez son score
 
  <p align="center">
-  <img src="score.gif" width="1080px"/>
+  <img src="score2.gif" width="1080px"/>
  </p> 
 
 
