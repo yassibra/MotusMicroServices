@@ -23,7 +23,8 @@
  >- dans le dossier Motus : 
   (supprimez node_modules) 
   ```
-  npm i npm run dev
+  npm i npm 
+  run dev
  ```
  >- dans le dossier Score : 
   (supprimez node_modules)
