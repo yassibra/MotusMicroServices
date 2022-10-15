@@ -1,6 +1,7 @@
 # Motus 
 ## Installation 
 #### Par Docker :
+```
  - cd ../Auth
  - docker build . -t yassibra/motus-auth
  - cd ../Score
@@ -11,7 +12,7 @@
  - docker build . -t yassibra/motus-front
  - cd ../
  - docker compose up -d
-
+```
 
 #### Sans Docker : 
  >- Dans le dossier Auth :
