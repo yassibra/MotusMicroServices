@@ -53,8 +53,13 @@
 <p align="center">
   -Creation de compte et connexion
   <img src="CreerCompteEtConnexion.gif"/>
-</p>     
- - Jouez                   
+</p>  
+
+<p align="center">
+  -Jeu Motus
+  <img src="Motus.gif"/>
+</p>  
+                  
  - Consultez votre score  
 ![](jeuMotus.png)
 ## Regle du jeu 
