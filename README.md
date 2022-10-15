@@ -15,9 +15,7 @@
 
 #### Sans Docker : 
  >- Dans le dossier Auth :
- 
- 
-  (supprimez node_modules)
+ (supprimez node_modules)
   ```
   npm i npm run dev
  ```
