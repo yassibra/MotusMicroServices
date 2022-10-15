@@ -21,11 +21,20 @@
  ```
  
  >- dans le dossier Motus : 
-  (supprimez node_modules) npm i npm run dev
+  (supprimez node_modules) 
+  ```
+  npm i npm run dev
+ ```
  >- dans le dossier Score : 
-  (supprimez node_modules) npm i npm run dev
+  (supprimez node_modules)
+   ```
+  npm i npm run dev
+ ```
  >- dans le dossier Front : 
-  (supprimez node_modules) npm i npm run dev
+  (supprimez node_modules) 
+   ```
+  npm i npm run dev
+ ```
  
 ## Fonctionnement 
 -  Connexion
