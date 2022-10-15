@@ -52,7 +52,7 @@
 
 <p align="center">
   -Creation de compte et connexion
-  <img src="CreerCompteEtConnexion.gif" width="360px" />
+  <img src="CreerCompteEtConnexion.gif"/>
 </p>     
  - Jouez                   
  - Consultez votre score  
