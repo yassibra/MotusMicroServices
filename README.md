@@ -15,7 +15,11 @@
 
 #### Sans Docker : 
  >- Dans le dossier Auth :
+ 
+ 
   (supprimez node_modules) npm i npm run dev
+ 
+ 
  >- dans le dossier Motus : 
   (supprimez node_modules) npm i npm run dev
  >- dans le dossier Score : 
